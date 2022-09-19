@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // Sample demo 
   // const products = [
   //   { apple: 25, Banana: 30, Orange: 35 },
   //   { apple: 25, Banana: 30 },
@@ -65,7 +66,7 @@ function App() {
   //   }
   // })
   // console.log(result);
-  
+
   // const products = [
   //   {saturday : { apple: 25, Banana: 30, Orange: 35 },
   //   sunday : { apple: 25, Banana: 30 },
@@ -110,28 +111,28 @@ function App() {
   // })
   // console.log(result)
 
-//   const products = [
-//       [{ apple: 25, Banana: 30, Orange: 35 }, { apple: 25, Banana: 30, Orange: 35 }],
-//       [{ apple: 25, Banana: 30 }, { apple: 25, Banana: 30 }],
-//       [{ apple: 25, Banana: 30 }, { apple: 25, Banana: 30 }]
-//     ]
-// const result = {};
+  //   const products = [
+  //       [{ apple: 25, Banana: 30, Orange: 35 }, { apple: 25, Banana: 30, Orange: 35 }],
+  //       [{ apple: 25, Banana: 30 }, { apple: 25, Banana: 30 }],
+  //       [{ apple: 25, Banana: 30 }, { apple: 25, Banana: 30 }]
+  //     ]
+  // const result = {};
 
-//   products.forEach(product=>{
-//     product.forEach(prod=>{
-//         for(const key in prod){
-//           if(result[key])
-//           {
-//             result[key] = result[key] + prod[key];
-//           }
-//           else{
-//             result[key] = prod[key];
-//           }
-//         }
-//     })
-//   })
+  //   products.forEach(product=>{
+  //     product.forEach(prod=>{
+  //         for(const key in prod){
+  //           if(result[key])
+  //           {
+  //             result[key] = result[key] + prod[key];
+  //           }
+  //           else{
+  //             result[key] = prod[key];
+  //           }
+  //         }
+  //     })
+  //   })
 
-//   console.log(result)
+  //   console.log(result)
 
 
 
